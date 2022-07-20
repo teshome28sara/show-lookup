@@ -10,5 +10,5 @@
 
 ### Screen shot of Website
 
-![Screenshot of Show Lookup homepage](/Assets/ShowLookUP.png "Show Lookup home screen")
+![Screenshot of Show Lookup homepage](/Assets/show-lookup.png "Show Lookup home screen")
 
