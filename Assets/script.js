@@ -14,12 +14,12 @@ var input = document.querySelector("#search-field");
 var cardEl = document.getElementById("card");
 var  body = document.body 
 var element;
-// var close = document.getElementById("close");
+var close = document.getElementById("close");
 
-// close.addEventListener("click", function(event){
-//   event.preventDefault()
-//   dialog.style.visibility = "hidden";
-// })
+close.addEventListener("click", function(event){
+  event.preventDefault()
+  dialog.style.visibility = "hidden";
+})
 
 
 
