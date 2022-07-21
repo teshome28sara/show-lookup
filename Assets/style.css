@@ -71,6 +71,24 @@ background-color: rgba(0,0,0,0.5);
   cursor: pointer;
  }
 
+ @media screen and(max-width:600px){
+  .card{
+      display: grid;
+  }
+}
+
+@media screen and(max-width:600px){
+  .dialog{
+     float: left;
+  }
+}
+
+@media screen and(max-width:600px){
+  #saveBtn{
+      float: left;
+  }
+}
+
 
 
   
